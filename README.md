@@ -1,17 +1,7 @@
 # teirei20220831
 
-A new Flutter project.
+- 写真をタップしたら、アップする(画像のプレビュー)の作成
+- 二本指で画像を拡大縮小できる機能の作成
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# teireikai20220831_function_trace
+## 実装後の様子
+https://user-images.githubusercontent.com/85224998/187631718-1e8a4f43-c572-4622-a703-3e842163f8a9.mp4
